@@ -1,0 +1,22 @@
+.boton {
+  margin: 4%;
+  width: 50%;
+  height: 35px;
+  border: 0px solid;
+  border-radius: 5px;
+  background-color: rgba(155, 77, 210, 0.8);
+  font-size: 1em;
+  box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.15);
+}
+
+
+.botonSalir {
+  margin: 4%;
+  width: 50%;
+  height: 35px;
+  border: 0px solid;
+  border-radius: 5px;
+  background-color: rgba(255, 0, 13, 0.8);
+  font-size: 1em;
+  box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.15);
+}

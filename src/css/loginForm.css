@@ -1,0 +1,27 @@
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.bg {
+  background-color: rgba(155, 77, 210, 0.8);
+  width: 100vw;
+  height: 50vh;
+  position: absolute;
+  top: 0vh;
+  z-index: 0;
+  border-radius:50% / 0 0 20px 20px;
+}
+
+.bodyBox{
+  margin-top: 10%;
+}
+
+@media only screen and (min-width: 750px) {
+  .bodyBox{
+    margin-top: 0%;
+  }
+  
+}
